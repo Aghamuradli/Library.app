@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace kitabxana
 {
-    internal class person 
+    internal class Person 
     {
         public string Name { get; set; }
         public string Surname { get; set; }
